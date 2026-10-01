@@ -66,7 +66,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 MIT — feel free to fork, star, and use in your own learning journey.
 
 ## 👨‍💻 About the Author
-Hey, I'm **Kunal Mahadev Budake**, a Data Analyst with hands-on experience in data operations and reporting, combined with self-driven technical skills in SQL, Python, Power BI, and Tableau.
+Hey, I'm **Kunal Mahadev Budake**, a Data Analyst with hands-on experience in data operations and reporting, combined with self-driven technical skills in SQL, Python, and Power BI.
 
 📧 Email: Kunalbudake62021@gmail.com
 💼 LinkedIn: [Kunal Budake](https://www.linkedin.com/in/kunal-budake-6b4b52303)
